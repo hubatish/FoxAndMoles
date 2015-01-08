@@ -1,0 +1,22 @@
+Structure
+Main Menu
+One player presses Create Server
+Everyone else pressses Join Server
+When on the next screen it says Number of Players and Start
+Each player that presses Start sends out an RPC call which +1's to numPlayersReady
+when server gets this, it checks if numPlayersReady == numPlayers
+if so, sends out an rpc call that loads the next level
+Each player needs to instantiate their own player I think (so network.isMine works)
+Each player should have a number (ie, they are network # 0,1,2,3)
+Server can send out a list with everyones roles and positions
+Then each person instantiates an object at that position, sends the instantiate msg back
+everyone has each player!
+
+Turn
+Each player presses a button/does an action.  Game records it for later (probably with function pointer).
+When do action, send message to server saying are ready and with action taken.  
+When server gets msg from all players, send out all actions queued.
+Each player (&server) executes all actions and each character moves to new position.
+Each player detects own collisions and increments score.
+only the server can start a new round though. 
+

@@ -1,0 +1,15 @@
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="7">
+            <File firstVisibleLine="24" xOffset="0" scrollWidth="763" startPos="1092" endPos="1092" selMode="0" lang="C#" encoding="-1" filename="D:\ZAch\school\College13-14\Winter\ExpGames\FoxAndMoles\Assets\Scripts\MainMenuNetwork.cs" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="819" startPos="2701" endPos="2701" selMode="0" lang="C#" encoding="-1" filename="D:\ZAch\school\College13-14\Winter\ExpGames\FoxAndMoles\Assets\Scripts\GoalChecker.cs" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="735" startPos="1152" endPos="1152" selMode="0" lang="Normal Text" encoding="-1" filename="D:\ZAch\school\College13-14\Winter\ExpGames\FoxAndMoles\Assets\Scripts\planning.txt" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="819" startPos="264" endPos="264" selMode="0" lang="C#" encoding="-1" filename="D:\ZAch\school\College13-14\Winter\ExpGames\FoxAndMoles\Assets\Scripts\NetworkManager.cs" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="819" startPos="51" endPos="51" selMode="0" lang="C#" encoding="-1" filename="D:\ZAch\school\College13-14\Winter\ExpGames\FoxAndMoles\Assets\Scripts\Actionable.cs" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="819" startPos="330" endPos="330" selMode="0" lang="C#" encoding="-1" filename="D:\ZAch\school\College13-14\Winter\ExpGames\FoxAndMoles\Assets\Scripts\Fox.cs" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="819" startPos="505" endPos="505" selMode="0" lang="C#" encoding="-1" filename="D:\ZAch\school\College13-14\Winter\ExpGames\FoxAndMoles\Assets\Scripts\CharacterNetwork.cs" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="819" startPos="0" endPos="0" selMode="0" lang="C#" encoding="-1" filename="D:\ZAch\school\College13-14\Winter\ExpGames\FoxAndMoles\Assets\Scripts\MouseRemover.cs" />
+        </mainView>
+        <subView activeIndex="0" />
+    </Session>
+</NotepadPlus>
